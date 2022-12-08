@@ -21,6 +21,8 @@
 #include "Driver_W25Q32.h"
 
 
+void foo(void);
+
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
