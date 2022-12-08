@@ -18,7 +18,9 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
-#include "string.h"
+#include "Driver_W25Q32.h"
+
+
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
